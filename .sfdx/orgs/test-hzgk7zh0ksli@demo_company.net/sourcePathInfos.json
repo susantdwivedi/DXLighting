@@ -1,0 +1,194 @@
+[
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603239308,
+            "changeTime": 1504604229404,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603239308,
+            "changeTime": 1504604229404,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504608319327,
+            "changeTime": 1504608319327,
+            "contentHash": "b4afd72db6e4c5208696ba627b7991e3fd2ac754"
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504604619969,
+            "changeTime": 1504604619969,
+            "contentHash": "bb5e9a367276d9ed486a41f39ea4853de1aaf7df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504604620020,
+            "changeTime": 1504604620020,
+            "contentHash": "6e719e5c800108fbaffbf2066f493664a2ba8f28",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1617,
+            "modifiedTime": 1504608319327,
+            "changeTime": 1504608319327,
+            "contentHash": "37b6b5fbcba5f74d020026cf0f93cfc6f381ac7b"
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 211,
+            "modifiedTime": 1504608319326,
+            "changeTime": 1504608319326,
+            "contentHash": "7f3b573b0af7a64f29c0d4a20086278b9349483e"
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1504608319325,
+            "changeTime": 1504608319325,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4"
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 245,
+            "modifiedTime": 1504608319299,
+            "changeTime": 1504608319299,
+            "contentHash": "a87cc0780f27e1b47ad87dec4818177489337cbb"
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1504608319297,
+            "changeTime": 1504608319297,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1504608319300,
+            "changeTime": 1504608319300,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504604801133,
+            "changeTime": 1504604801133,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5933,
+            "modifiedTime": 1504608319328,
+            "changeTime": 1504608319328,
+            "contentHash": "32d7920b7dbf0fea46c7c0d5302cbcf4b11437ca"
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLigtining\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504608319328,
+            "changeTime": 1504608319328,
+            "contentHash": "32f1b6b4eb2c3f479592c779097b710dcc7020dd"
+        }
+    ]
+]
